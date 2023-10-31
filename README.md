@@ -27,7 +27,7 @@ Clone the project
 Navigate to the project directory
 
 ```bash
-  cd my-project
+  cd drinks-react
 ```
 
 Install the dependencies
